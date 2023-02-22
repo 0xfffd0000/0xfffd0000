@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 0xfffd00000</h1>
-<h3 align="center">I'km a Developer from Romania.</h3>
+<h3 align="center">I'm a Developer from Romania.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xfffd0000&label=Profile%20views&color=0e75b6&style=flat" alt="0xfffd0000" /> </p>
 
