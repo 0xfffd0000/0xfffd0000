@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xfffd0000" alt="0xfffd0000" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/0xfffd0000" target="blank"><img src="https://img.shields.io/twitter/follow/0xfffd0000?logo=twitter&style=for-the-badge" alt="0xfffd0000" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Oxfffd0000" target="blank"><img src="https://img.shields.io/twitter/follow/0xfffd0000?logo=twitter&style=for-the-badge" alt="0xfffd0000" /></a> </p>
 
 - 🔭 I’m currently working on [The Real World](https://github.com/0xfffd0000/The-Real-World)
 
